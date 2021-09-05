@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Winston Igor
-Sou desenvolvedor .NET 
+
  <div>
   <a href="https://github.com/winstonigor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winstonigor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
